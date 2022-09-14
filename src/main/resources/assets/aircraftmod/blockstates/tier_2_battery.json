@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "aircraftmod:block/tier_2_battery",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/tier_2_battery",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/tier_2_battery"
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/tier_2_battery",
+      "y": 90
+    }
+  }
+}

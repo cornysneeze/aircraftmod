@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aircraftmod:lithium_ore",
+    "aircraftmod:electric_engin",
+    "aircraftmod:rotation_generator"
+
+  ]
+}

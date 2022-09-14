@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "aircraftmod:compressed_wood"
+    },
+    "title": "Compressed !",
+    "description": "First time when a player use the compressor",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "aircraftmod:textures/block/hardened_iron_block.png"
+  },
+  "parent": "aircraftmod:machinery",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aircraftmod:compressed_wood"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

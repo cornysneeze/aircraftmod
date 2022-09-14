@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SHS",
+    "ISI"
+  ],
+  "key": {
+    "#": {
+      "item": "aircraftmod:tier_1_battery"
+    },
+    "S": {
+      "item": "aircraftmod:copper_wire"
+    },
+    "H": {
+      "item": "aircraftmod:lithium_plate"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:electric_engin",
+    "count": 1
+  }
+}

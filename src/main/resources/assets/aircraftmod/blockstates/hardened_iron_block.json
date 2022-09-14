@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "aircraftmod:block/hardened_iron_block"
+    }
+  }
+}

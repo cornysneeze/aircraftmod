@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WLW",
+    "LAL",
+    "WLW"
+  ],
+  "key": {
+    "A": {
+      "item": "aircraftmod:tier_1_alternator"
+    },
+    "W": {
+      "item": "aircraftmod:copper_wire"
+    },
+    "L": {
+      "item": "aircraftmod:energized_lithium_plate"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:tier_2_alternator"
+  }
+}

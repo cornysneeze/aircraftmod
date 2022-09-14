@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aircraftmod:hardened_iron_block",
+    "aircraftmod:compressor",
+    "aircraftmod:refinery",
+    "aircraftmod:rubber_refinery"
+  ]
+}

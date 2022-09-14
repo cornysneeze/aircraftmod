@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "LIL",
+    "ILI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "L": {
+      "item": "aircraftmod:lithium_ingot"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:tier_1_battery"
+  }
+}

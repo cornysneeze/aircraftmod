@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "aircraftmod:lithium_block",
+    "aircraftmod:coal_generator",
+    "aircraftmod:fuel_generator",
+    "aircraftmod:fuel_engin",
+    "aircraftmod:tier_2_battery"
+  ]
+}

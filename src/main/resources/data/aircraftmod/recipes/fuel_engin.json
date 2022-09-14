@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "THT",
+    "HBH",
+    "IHI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "aircraftmod:tier_2_battery"
+    },
+    "H": {
+      "item": "aircraftmod:hardened_iron_block"
+    },
+    "T": {
+      "item": "aircraftmod:wooden_tank"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:fuel_engin"
+  }
+}

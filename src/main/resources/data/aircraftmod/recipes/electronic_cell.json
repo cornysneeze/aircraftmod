@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LRL",
+    "RCR",
+    "LRL"
+  ],
+  "key": {
+    "C": {
+      "item": "aircraftmod:raw_cell"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "aircraftmod:lithium_plate"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:electronic_cell"
+  }
+}

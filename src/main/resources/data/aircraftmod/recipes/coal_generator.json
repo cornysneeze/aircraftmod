@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "LAL",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "aircraftmod:hardened_iron_block"
+    },
+    "B": {
+      "item": "aircraftmod:tier_1_battery"
+    },
+    "W": {
+      "item": "aircraftmod:wooden_tank"
+    },
+    "A": {
+      "item": "aircraftmod:tier_1_alternator"
+    },
+    "L": {
+      "item": "aircraftmod:lithium_ingot"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:coal_generator"
+  }
+}

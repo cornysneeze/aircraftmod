@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "aircraftmod:block/rotation_generator",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/rotation_generator"
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/rotation_generator"
+    },
+    "facing=west": {
+      "model": "aircraftmod:block/rotation_generator"
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/rotation_generator"
+    },
+    "facing=up": {
+      "model": "aircraftmod:block/rotation_generator"
+    }
+  }
+}

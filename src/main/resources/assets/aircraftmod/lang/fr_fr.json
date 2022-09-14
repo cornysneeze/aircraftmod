@@ -1,0 +1,44 @@
+{
+
+  "item.aircraftmod.compressed_wood": "Bois compressé",
+  "item.aircraftmod.barometer": "Baromètre",
+  "item.aircraftmod.lithium_ingot": "Lingot de Lithium",
+  "item.aircraftmod.aircraft_book": "Livre de Tutoriel",
+  "item.aircraftmod.copper_rod": "Barre de Cuivre",
+  "item.aircraftmod.big_stick": "Gros Bâton",
+  "item.aircraftmod.copper_wire": "Fil de Cuivre",
+  "item.aircraftmod.electronic_cell": "Puce Électronique",
+  "item.aircraftmod.energized_lithium_plate": "Plaque de Lithium Chargé",
+  "item.aircraftmod.lithium_plate": "Plaque de Lithium",
+  "item.aircraftmod.iron_rod": "Barre de Fer",
+  "item.aircraftmod.raw_cell": "Puce Brute",
+  "item.aircraftmod.raw_rubber": "Caoutchou Brute",
+  "item.aircraftmod.refined_rubber": "Caoutchou Rafinné",
+  "item.aircraftmod.rubber_baloon": "Ballon en Caoutchou",
+  "item.aircraftmod.wool_fibre": "Fibre de Laine",
+  "item.aircraftmod.tier_1_alternator": "Alternateur de Niveau 1",
+  "item.aircraftmod.tier_2_alternator": "Alternateur de Niveau 2",
+  "item.aircraftmod.oil_bucket": "Sceau de Pétrole",
+  "item.aircraftmod.fuel_bucket": "Sceau d'essence",
+
+
+  "block.aircraftmod.hardened_iron_block": "Bloc de fer renforcé",
+  "block.aircraftmod.lithium_block": "Bloc de Lithium",
+  "block.aircraftmod.lithium_ore": "Minerai de Lithium",
+  "block.aircraftmod.coal_generator": "Centrale à Charbon",
+  "block.aircraftmod.tier_1_battery": "Batterie de Niveau 1",
+  "block.aircraftmod.tier_2_battery": "Batterie de Niveau 2",
+  "block.aircraftmod.wooden_tank": "Réservoir en Bois",
+  "block.aircraftmod.compressor": "Compresseur",
+  "block.aircraftmod.electric_engin": "Moteur Électrique",
+  "block.aircraftmod.fuel_engin": "Moteur Thermique",
+  "block.aircraftmod.fuel_generator": "Centrale à Pétrole",
+  "block.aircraftmod.rotation_generator": "Générateur Manuelle",
+  "block.aircraftmod.refinery": "Raffinerie",
+  "block.aircraftmod.rubber_refinery": "Raffinerie à Caoutchou",
+
+
+  "itemGroup.Planes": "Planes",
+  "itemGroup.Machine_Aircraft": "Machine Aéronautique",
+  "itemGroup.AirItem": "Objets Aériens"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "aircraftmod:block/refinery",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/refinery",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/refinery"
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/refinery",
+      "y": 90
+    }
+  }
+}

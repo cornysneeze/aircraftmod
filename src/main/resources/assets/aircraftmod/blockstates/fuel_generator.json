@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "aircraftmod:block/fuel_generator",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/fuel_generator",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/fuel_generator"
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/fuel_generator",
+      "y": 90
+    }
+  }
+}

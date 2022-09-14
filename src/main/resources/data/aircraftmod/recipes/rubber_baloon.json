@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RIR",
+    " R "
+  ],
+  "key": {
+    "I": {
+      "item": "aircraftmod:iron_rod"
+    },
+    "R": {
+      "item": "aircraftmod:refined_rubber"
+    }
+
+  },
+  "result": {
+    "item": "aircraftmod:rubber_baloon"
+  }
+}

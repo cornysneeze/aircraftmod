@@ -1,0 +1,44 @@
+{
+  "item.aircraftmod.compressed_wood": "Compressed Wood",
+  "item.aircraftmod.barometer": "barometer",
+  "item.aircraftmod.lithium_ingot": "Lithium Ingot",
+  "item.aircraftmod.aircraft_book": "Tutorial Book",
+  "item.aircraftmod.copper_rod": "Copper Rod",
+  "item.aircraftmod.big_stick": "Big Stick",
+  "item.aircraftmod.copper_wire": "Copper Wire",
+  "item.aircraftmod.electronic_cell": "Electronic Cell",
+  "item.aircraftmod.energized_lithium_plate": "Energized Lithium Plate",
+  "item.aircraftmod.lithium_plate": "Lithium Plate",
+  "item.aircraftmod.iron_rod": "Iron Rod",
+  "item.aircraftmod.raw_cell": "Raw Cell",
+  "item.aircraftmod.raw_rubber": "Raw Rubber",
+  "item.aircraftmod.refined_rubber": "Refined Rubber",
+  "item.aircraftmod.rubber_baloon": "Rubber Baloon",
+  "item.aircraftmod.wool_fibre": "Wool Fibre",
+  "item.aircraftmod.tier_1_alternator": "Tier I Alternator",
+  "item.aircraftmod.tier_2_alternator": "Tier II Alternator",
+  "item.aircraftmod.oil_bucket": "Oil Bucket",
+  "item.aircraftmod.fuel_bucket": "Fuel Bucket",
+
+
+  "block.aircraftmod.hardened_iron_block": "Hardened Iron Block",
+  "block.aircraftmod.lithium_block": "Lithium Block",
+  "block.aircraftmod.lithium_ore": "Lithium Ore",
+  "block.aircraftmod.coal_generator": "Coal Generator",
+  "block.aircraftmod.tier_1_battery": "Tier 1 Battery",
+  "block.aircraftmod.tier_2_battery": "Tier 2 Battery",
+  "block.aircraftmod.wooden_tank": "Wooden Tank",
+  "block.aircraftmod.compressor": "Compressor",
+  "block.aircraftmod.electric_engin": "Electric Engine",
+  "block.aircraftmod.fuel_engin": "Fuel Engine",
+  "block.aircraftmod.fuel_generator": "Fuel Generator",
+  "block.aircraftmod.rotation_generator": "Rotation Generator",
+  "block.aircraftmod.refinery": "Refinery",
+  "block.aircraftmod.rubber_refinery": "Rubber Refinery",
+
+
+
+  "itemGroup.Planes": "Planes",
+  "itemGroup.Machine_Aircraft": "Machine Aircraft",
+  "itemGroup.AirItem": "Air's Item"
+}

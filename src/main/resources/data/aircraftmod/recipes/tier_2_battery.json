@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "LBL",
+    "ILI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "aircraftmod:copper_wire"
+    },
+    "B": {
+      "item": "aircraftmod:tier_1_battery"
+    },
+    "L": {
+      "item": "aircraftmod:energized_lithium_plate"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:tier_2_battery"
+  }
+}

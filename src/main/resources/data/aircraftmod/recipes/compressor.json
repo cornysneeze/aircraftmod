@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PAP",
+    "B B",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "aircraftmod:hardened_iron_block"
+    },
+    "B": {
+      "item": "aircraftmod:tier_1_battery"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:compressor"
+  }
+}

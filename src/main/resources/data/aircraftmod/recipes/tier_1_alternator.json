@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RLR",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "aircraftmod:hardened_iron_block"
+    },
+    "R": {
+      "item": "aircraftmod:copper_rod"
+    },
+    "L": {
+      "item": "aircraftmod:lithium_ingot"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:tier_1_alternator"
+  }
+}

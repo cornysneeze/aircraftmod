@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TWT",
+    "WAW",
+    "BWB"
+  ],
+  "key": {
+    "T": {
+      "item": "aircraftmod:wooden_tank"
+    },
+    "B": {
+      "item": "aircraftmod:tier_2_battery"
+    },
+    "W": {
+      "item": "aircraftmod:copper_wire"
+    },
+    "A": {
+      "item": "aircraftmod:tier_2_alternator"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:fuel_generator"
+  }
+}

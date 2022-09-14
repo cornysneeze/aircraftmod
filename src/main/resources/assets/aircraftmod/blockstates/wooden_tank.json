@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=west": {
+      "model": "aircraftmod:block/wooden_tank",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/wooden_tank",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/wooden_tank"
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/wooden_tank",
+      "y": 90
+    }
+  }
+}

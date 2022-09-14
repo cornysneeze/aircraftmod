@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "CLC",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "aircraftmod:big_stick"
+    },
+    "L": {
+      "item": "aircraftmod:lithium_ingot"
+    },
+    "C": {
+      "item": "aircraftmod:copper_rod"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:rotation_generator"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "aircraftmod:oil_flowing",
+    "aircraftmod:oil_fluid",
+    "aircraftmod:fuel_flowing",
+    "aircraftmod:fuel_fluid"
+  ]
+}

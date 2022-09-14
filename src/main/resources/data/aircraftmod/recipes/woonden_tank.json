@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "aircraftmod:compressed_wood"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:wooden_tank"
+  }
+}

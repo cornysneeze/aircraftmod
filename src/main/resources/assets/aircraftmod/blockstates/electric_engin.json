@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "aircraftmod:block/electric_engin",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "aircraftmod:block/electric_engin",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "aircraftmod:block/electric_engin",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "aircraftmod:block/electric_engin",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "aircraftmod:block/electric_engin"
+    },
+    "facing=west": {
+      "model": "aircraftmod:block/electric_engin",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

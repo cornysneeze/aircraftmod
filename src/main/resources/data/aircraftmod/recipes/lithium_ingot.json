@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lithium_ingot",
+  "ingredients": [
+    {
+      "item": "aircraftmod:lithium_block"
+    }
+  ],
+  "result": {
+    "item": "aircraftmod:lithium_ingot",
+    "count": 9
+  }
+}

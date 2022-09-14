@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "aircraftmod:hardened_iron_block",
+    "aircraftmod:lithium_ore",
+    "aircraftmod:lithium_block",
+    "aircraftmod:coal_generator",
+    "aircraftmod:fuel_generator",
+    "aircraftmod:compressor",
+    "aircraftmod:electric_engin",
+    "aircraftmod:fuel_engin",
+    "aircraftmod:tier_2_battery",
+    "aircraftmod:rotation_generator",
+    "aircraftmod:refinery",
+    "aircraftmod:rubber_refinery"
+  ]
+}

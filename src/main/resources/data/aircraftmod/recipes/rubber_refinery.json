@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TIT",
+    "BRB",
+    "IHI"
+  ],
+  "key": {
+    "H": {
+      "item": "aircraftmod:hardened_iron_block"
+    },
+    "B": {
+      "item": "aircraftmod:tier_2_battery"
+    },
+    "T": {
+      "item": "aircraftmod:wooden_tank"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "R": {
+      "item": "aircraftmod:refinery"
+    }
+  },
+  "result": {
+    "item": "aircraftmod:rubber_refinery"
+  }
+}
